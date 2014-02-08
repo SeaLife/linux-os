@@ -23,3 +23,5 @@ INSTALL_FILES[9] = "startup"
 INSTALL_FILES[10] = "startup.d/api_registry.lua"
 INSTALL_FILES[11] = "startup.d/shell_aliases.lua"
 INSTALL_FILES[12] = "startup.d/user_restrict.lua"
+
+INSTALL_FILES[13] = ".repo"
